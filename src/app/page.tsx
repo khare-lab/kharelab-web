@@ -8,7 +8,7 @@ export default function Home() {
         {/* Logo */}
         <div className="flex justify-center">
           <Image
-            src="/public/logo-horizontal-light.svg"
+            src="/logo-horizontal.svg"
             alt="Khare Lab Logo"
             width={220}
             height={120}
